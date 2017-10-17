@@ -6,14 +6,16 @@ TODAY'S DATE : 17 October 2017
 CSC 436  
 HOMEWORK : #4  
 COMPLEXITY: Medium:   
-APPROX HOURS INVESTED IN ASSIGNMENT :   
-EXPECTED GRADE :   
+APPROX HOURS INVESTED IN ASSIGNMENT : 3  
+EXPECTED GRADE : B+  
 PARTICIPATION SOURCE CODE :   
 * React Timer App : https://github.com/nbrengle/react-timer-app.git  
 > I realize it's a bit unrelated, but it's part of what I did last week when there was no homework
 
 APPLICATION INTENT :  
-
+It works decently well. Pulls the data I was expecting.  
+Wound up using a PyramidRow abstraction that I'm not sure I like.  
+Also wound up with much less impressive formatting than I should have preferred.   
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
