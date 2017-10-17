@@ -1,0 +1,23 @@
+.row {
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    height: 100px;
+    border-style: solid;
+    padding-top: 10px;
+    width: 100%;
+
+}
+
+.item {
+    display: inline;
+    height: 90%;
+    padding: 10px;
+
+}
+
+.rounded {
+    border-radius: 50%;
+    height: inherit;
+    width: inherit;
+}

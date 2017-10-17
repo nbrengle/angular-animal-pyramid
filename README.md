@@ -1,4 +1,20 @@
 # AngularAnimalPyramid
+FIRST NAME : Nathaniel  
+LAST NAME : Brengle  
+GITHUB URL : https://github.com/nbrengle/angular-animal-pyramid
+TODAY'S DATE : 17 October 2017
+CSC 436  
+HOMEWORK : #4  
+COMPLEXITY: Medium:   
+APPROX HOURS INVESTED IN ASSIGNMENT :   
+EXPECTED GRADE :   
+PARTICIPATION SOURCE CODE :   
+* React Timer App : https://github.com/nbrengle/react-timer-app.git  
+> I realize it's a bit unrelated, but it's part of what I did last week when there was no homework
+
+APPLICATION INTENT :  
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 

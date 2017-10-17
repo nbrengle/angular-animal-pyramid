@@ -1,0 +1,12 @@
+.pyramid {
+    display: flex;
+    justify-content: center;
+    background-clip: border-box;
+}
+
+/* do this cleverer */
+.pyramid:nth-child(1){ background: #009246; }
+.pyramid:nth-child(2){ background: #123456; }
+.pyramid:nth-child(3){ background: #CE2B37; }
+.pyramid:nth-child(4){ background: #654321; }
+.pyramid:nth-child(5){ background: #F0F0F0; }
